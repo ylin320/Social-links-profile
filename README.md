@@ -20,7 +20,7 @@ This is my solution for the Frontend Mentor "Social Links Profile" challenge.
 
 ### Screenshot\_截圖
 
-![QR code component screenshot](./preview.jpg)
+![Social Links Profile Solution screenshot](./preview.jpg)
 
 ### Links\_連結
 
